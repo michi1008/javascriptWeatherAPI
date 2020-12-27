@@ -9,6 +9,5 @@ You can change the location and unit if you like.
 
 Tech Stack
 
-*javascript
-*HTML
-*CSS
+javascript / HTML / CSS
+
