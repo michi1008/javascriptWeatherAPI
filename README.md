@@ -8,6 +8,7 @@ It shows the weather of the default city: New York in the default unit:Metric.
 You can change the location and unit if you like. 
 
 Tech Stack
+
 *javascript
 *HTML
 *CSS
