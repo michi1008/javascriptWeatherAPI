@@ -1,0 +1,30 @@
+#description{
+  color:#16a596;
+}
+
+.col-md-6{
+  background-color: #aee6e6
+   ;
+}
+
+#details{
+  color:#16a596;
+  font-weight:bold;
+}
+
+#w-form{
+  color:cornflowerblue;
+  
+}
+footer .col-sm-3 {
+  width:100%;
+  text-align: center;
+  padding:50px;
+}
+
+hr {
+  background-color:rgb(126, 185, 240);
+  height:2px;
+  border:none;
+  
+}
