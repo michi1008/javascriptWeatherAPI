@@ -1,5 +1,5 @@
 # javascriptWeatherAPI
-I created this small project to learn how to get data using API in javaScript without any frameworks. 
+I created this small project to learn how to get data using API in javaScript. . 
 This website shows the current weather and temp etc from OpenWeather. 
 
 Feature
@@ -9,5 +9,5 @@ You can change the location and unit if you like.
 
 Tech Stack
 
-javascript / HTML / CSS
+javascript / HTML / CSS / bootstrap
 
