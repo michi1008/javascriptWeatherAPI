@@ -1,3 +1,19 @@
+html body {
+  background-color:#16a596;
+}
+
+hr {
+  background-color:rgb(126, 185, 240);
+  height:2px;
+  border:none;
+  
+}
+footer .col-sm-3 {
+  width:100%;
+  text-align: center;
+  padding:50px;
+}
+
 #description{
   color:#16a596;
 }
@@ -14,17 +30,5 @@
 
 #w-form{
   color:cornflowerblue;
-  
-}
-footer .col-sm-3 {
-  width:100%;
-  text-align: center;
-  padding:50px;
-}
-
-hr {
-  background-color:rgb(126, 185, 240);
-  height:2px;
-  border:none;
   
 }
