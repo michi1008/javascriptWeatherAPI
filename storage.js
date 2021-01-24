@@ -3,7 +3,7 @@ class Storage {
     this.city;
     this.unit;
     this.defaultCity = 'New York';
-    this.defaultUnit = 'metric';
+    this.defaultUnit = 'imperial';
     
   }
 

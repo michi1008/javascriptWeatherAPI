@@ -1,10 +1,15 @@
+body{
+  min-height: 1000px;
+  background: rgb(2,0,36);
+  background: linear-gradient(45deg, rgba(0,212,255,0.8) 50%, rgba(255,255,255, 0.9) 50%);
+  background-repeat: no-repeat;
+}
 #description{
   color:#16a596;
 }
 
 .col-md-6{
-  background-color: #aee6e6
-   ;
+  background-color: #aee6e6;   
 }
 
 #details{
@@ -23,8 +28,9 @@ footer .col-sm-3 {
 }
 
 hr {
-  background-color:rgb(126, 185, 240);
-  height:2px;
+  height:3px;
   border:none;
-  
+ 
 }
+
+
