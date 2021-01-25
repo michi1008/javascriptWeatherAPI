@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 body{
   min-height: 1000px;
   background: rgb(2,0,36);
   background: linear-gradient(45deg, rgba(0,212,255,0.8) 50%, rgba(255,255,255, 0.9) 50%);
   background-repeat: no-repeat;
 }
-=======
+
 html body {
   background-color:#16a596;
 }
@@ -22,7 +22,6 @@ footer .col-sm-3 {
   padding:50px;
 }
 
->>>>>>> b756e043fc232f525c3d01cff2a6042cb451c4e7
 #description{
   color:#16a596;
 }
@@ -39,7 +38,6 @@ footer .col-sm-3 {
 #w-form{
   color:cornflowerblue;
   
-<<<<<<< HEAD
 }
 footer .col-sm-3 {
   width:100%;
@@ -53,7 +51,3 @@ hr {
  
 }
 
-
-=======
-}
->>>>>>> b756e043fc232f525c3d01cff2a6042cb451c4e7
